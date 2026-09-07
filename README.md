@@ -1,4 +1,3 @@
-# cdelacruz-202500056-Actividad-4-Lab-Comunicacion-asertiva
 # Actividad Práctica 4: Mejora de la comunicación en el levantamiento de requisitos
 
 **Integrantes:**
@@ -39,5 +38,26 @@ El problema principal es la falta de una comunicación asertiva entre los integr
 > **Ana:** Es que si no lo hacemos bien nos va a ir mal, pero tú nunca escuchas.
 > **Luis:** Yo sí escucho, pero tú nunca estás conforme con nada de lo que hacemos.
 > **Ana:** Como digas, entonces hazlo tú solo.
+
+---
+
+## 3. Diálogo mejorado aplicando comunicación asertiva
+
+> **Ana:** Quisiera comentarles algo: siento que la presentación aún necesita algunos ajustes en la estructura para que quede más clara. ¿Podemos revisarlo juntos antes de la entrega?
+>
+> **Luis:** Entiendo tu punto, Ana. Me preocupa un poco el tiempo que tenemos disponible, ¿podrías decirme específicamente qué partes crees que deberíamos ajustar?
+>
+> **Ana:** Claro, creo que la introducción y las conclusiones necesitan más claridad. No busco rehacer todo, solo reforzar esas dos secciones.
+>
+> **Luis:** Eso suena razonable. Propongo que nos enfoquemos solo en esas dos partes durante los próximos 20 minutos, así no afectamos el resto del tiempo de preparación.
+>
+> **Ana:** Me parece bien, gracias por escucharme y por proponer una solución que funcione para ambos.
+
+En este diálogo mejorado se aplican los siguientes principios:
+
+- **Expresar opiniones de forma clara y respetuosa:** Ana plantea su inquietud sin atacar a Luis.
+- **Mensajes en primera persona:** se usan frases como "siento que..." y "me preocupa..." en lugar de acusaciones directas.
+- **Escucha activa sin interrumpir:** cada integrante deja que el otro termine de hablar y responde a lo que efectivamente se dijo.
+- **Búsqueda de acuerdos:** se llega a una solución concreta (enfocarse en dos secciones y definir un tiempo límite) que considera las necesidades de ambas partes.
 
 ---
